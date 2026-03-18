@@ -1,0 +1,18 @@
+Hello folks, first of all thank you for organizing something like this.
+I wasn't into this and I had almost 0 Knowladge when I started this.
+But I found it to be a lot of fun and I learned a lot.
+
+I couldn't get the model to predict 100% of the races.
+But I think it's a good start.
+
+I have attached the code and the best parameters I found.
+I also have attached a report that shows the accuracy of the model.
+
+Thank you for your time.
+
+Perfect Races:          136/500 = 27.2%
+Drivers Exactly Right:  80.8%
+Drivers Off by ≤1 Pos:  94.1%
+Drivers Off by ≤2 Pos:  97.9%
+Mean Position Error:    0.281 positions
+Max Position Error:     9 positions
