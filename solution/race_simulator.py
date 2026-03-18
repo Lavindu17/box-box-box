@@ -2,18 +2,18 @@ import json
 import sys
 
 PARAMS = [
-    -1.95049364,  # soft_off
-     1.32673000,  # hard_off
-     9.05720595,  # soft_grace
-    18.40432358,  # med_grace
-    27.94283633,  # hard_grace
-     0.86983298,  # soft_deg
-     0.34446878,  # med_deg
-     0.14992882,  # hard_deg
-     1.50198125,  # deg_exp
-     0.03303927,  # temp_soft
-     0.01560123,  # temp_med
-     0.01089012,  # temp_hard
+      -1.62795984,  # soft_off
+      1.14978744,   # hard_off
+      9.13138752,   # soft_grace
+      18.79647773,  # med_grace
+      28.66262315,  # hard_grace
+      0.78875823,   # soft_deg
+      0.35096600,   # med_deg
+      0.16267841,   # hard_deg
+      1.41521022,   # deg_exp
+      0.03346107,   # temp_soft
+      0.01634178,   # temp_med
+      0.00833413,   # temp_hard
 ]
 
 COMPOUND_IDX = {'SOFT': 0, 'MEDIUM': 1, 'HARD': 2}
